@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CablesWindoApp3", "CablesWindoApp3.csproj", "{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6} = {7FE7C588-576B-433C-AAA0-4E92886C56E6}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "algorithmLib", "algorithmLib\algorithmLib.vcxproj", "{7FE7C588-576B-433C-AAA0-4E92886C56E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		64|Any CPU = 64|Any CPU
+		64|x64 = 64|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.64|Any CPU.ActiveCfg = 64|Any CPU
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.64|Any CPU.Build.0 = 64|Any CPU
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.64|x64.ActiveCfg = 64|x64
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.64|x64.Build.0 = 64|x64
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.Debug|x64.ActiveCfg = Debug|x64
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.Debug|x64.Build.0 = Debug|x64
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.Release|Any CPU.ActiveCfg = 64|Any CPU
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.Release|Any CPU.Build.0 = 64|Any CPU
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.Release|x64.ActiveCfg = Release|x64
+		{701673B0-FA29-45D8-9A0F-9CDAAF3B891C}.Release|x64.Build.0 = Release|x64
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6}.64|Any CPU.ActiveCfg = Debug|x64
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6}.64|Any CPU.Build.0 = Debug|x64
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6}.64|x64.ActiveCfg = Debug|x64
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6}.64|x64.Build.0 = Debug|x64
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6}.Debug|x64.ActiveCfg = Debug|x64
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6}.Debug|x64.Build.0 = Debug|x64
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6}.Release|Any CPU.ActiveCfg = Release|x64
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6}.Release|x64.ActiveCfg = Release|x64
+		{7FE7C588-576B-433C-AAA0-4E92886C56E6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {993076DD-2C89-44D3-9BA2-8E3542355497}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CS0436: Type conflicts with imported type
+dotnet_diagnostic.CS0436.severity = none
+
+# Default severity for analyzer diagnostics with category 'Style'
+dotnet_analyzer_diagnostic.category-Style.severity = silent
+
+# IDE0005: Using directive is unnecessary.
+dotnet_diagnostic.IDE0005.severity = warning

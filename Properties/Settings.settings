@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CablesWindoApp3.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="reportNum" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">61</Value>
+    </Setting>
+    <Setting Name="rptNo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3333301</Value>
+    </Setting>
+    <Setting Name="ReportFolderNo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4444401</Value>
+    </Setting>
+    <Setting Name="TestNo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">11111101</Value>
+    </Setting>
+    <Setting Name="BatchNo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">55555501</Value>
+    </Setting>
+    <Setting Name="SerialPortName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="LastCalibrated" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"Not Available"</Value>
+    </Setting>
+    <Setting Name="mmPerPix" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
