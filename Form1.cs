@@ -483,7 +483,6 @@ namespace CablesWindoApp3
             //Bitmap algoImage = (Bitmap)Image.FromFile(cableimg);
             //bmp_ = (Bitmap)Image.FromFile(sampleimagePath);
 
-
             //-----model sel
             switch (selectedTemplate)
             {
